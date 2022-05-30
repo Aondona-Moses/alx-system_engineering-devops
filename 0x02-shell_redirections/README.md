@@ -26,3 +26,5 @@
 * 25. list all files with .gif
 * 26. Decodes acostic 
 * 27. parses web server and prints the most active hosts
+# Commit File
+* For easy pushing files to github
